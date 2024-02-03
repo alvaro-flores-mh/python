@@ -1,0 +1,13 @@
+La esperanza matemática se utiliza en todas aquellas disciplinas en las que la presencia de
+sucesos probabilísticos es inherente a las mismas. Disciplinas tales como la estadística 
+teórica, la física cuántica, la econometría, la biología o los mercados financieros. 
+Una gran cantidad de procesos y sucesos que ocurren en el mundo son inexactos. 
+Un ejemplo claro y fácil de entender es el de la bolsa de valores.
+
+En la bolsa de valores, todo se calcula en base a valores esperados ¿Por qué valores 
+esperados? Porque es lo que esperamos que suceda, pero no podemos confirmarlo. 
+Todo se basa en probabilidades, no en certezas. Si el valor esperado o esperanza matemática 
+de la rentabilidad de un activo es de un 10% anual, querrá decir que, según la información 
+que tenemos del pasado, lo más probable es que la rentabilidad vuelva a ser de un 10%. 
+Si solo tenemos en cuenta, claro está, la esperanza matemática como método para tomar 
+nuestras decisiones de inversión.
