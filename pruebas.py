@@ -1,6 +1,6 @@
 
 # 'w' borrar todo el contenido del archivo
-import re
+""" import re
 #file_x = open('eje1.txt', 'w')
 #file_x.close()
 # Se recominda abrir los archivos con "with" para evitar olvidar cerrar los mismos
@@ -24,12 +24,24 @@ with open(archivo) as f:
     
 print(contador)
 
-import csv
+import csv """
 
-with open(archivo) as f:
+""" with open(archivo) as f:
     tab_reader = csv.reader(f, delimiter='\t')
     for row in tab_reader:
         date = row[0]
         symbol = row[1]
         closing_price = float(row[2])
-        print(date, symbol, closing_price)
+        print(date, symbol, closing_price) """
+        
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.arange(0,10,0.1)
+y = x*np.cos(x)
+
+plt.plot(x,y)
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title('Lab DLS')
+plt.show()
